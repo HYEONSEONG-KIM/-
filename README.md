@@ -16,3 +16,4 @@
 
 ## 3.데이터베이스 구축
 - [3-1. 논리 데이터베이스 설계](https://github.com/HYEONSEONG-KIM/Data-Processing-Engineer-Study/blob/main/3.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%EC%B6%95/1.%EB%85%BC%EB%A6%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
+- [3-1. 물리 데이터베이스 설계](https://github.com/HYEONSEONG-KIM/Data-Processing-Engineer-Study/blob/main/3.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%EC%B6%95/2.%EB%AC%BC%EB%A6%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
