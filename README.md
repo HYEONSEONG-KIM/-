@@ -23,4 +23,4 @@
 
 
 ## 4.프로그래밍 언어 활용
-- [4-1. 서버 프로그램 구현](https://github.com/HYEONSEONG-KIM/Data-Processing-Engineer-Study/tree/main/4.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%99%9C%EC%9A%A9)
+- [4-1. 서버 프로그램 구현](https://github.com/HYEONSEONG-KIM/Data-Processing-Engineer-Study/blob/main/4.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%99%9C%EC%9A%A9/1.%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B5%AC%ED%98%84.md)
